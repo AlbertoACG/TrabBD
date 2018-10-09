@@ -1,0 +1,33 @@
+<> Caracteres especiais presentes no texto. Artigos ID: 4, 19.
+ID 4 ->
+"4";"Poster: Real time hand pose recognition with depth sensors for mixed reality interfaces.";"2013";"Byungkyu Kang|Mathieu Rodrigue|Tobias H&ouml;llerer|Hwasup Lim";"1";"2016-10-03 21:38:17";"Poster: Real time hand pose recognition with depth sensors for mixed reality interfaces. B Kang, M Rodrigue, T HÃ¶llerer - 3D User Interfaces (3DUI) , 2013 - ieeexplore.ieee.org. ABSTRACT We present a method for predicting articulated hand poses in realtime with a  single depth camera, such as the Kinect or Xtion Pro, for the purpose of interaction in a  Mixed Reality environment and for studying the effects of realistic and non-realistic  .."
+
+ID 19 ->
+"19";"Natural user interface hardware.";"2013";"Patrick Baudisch";"1";"2016-10-03 21:36:19";"Natural user interface hardware. P Baudisch - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT One-year olds can use touch screensâyoutube has proof of that. But whyâ what makes certain interactive devices so ânaturalâ that any child can just pick them up and  use them? The key seems to be user interface hardware that only allows for the one thing  .."
+
+<> Snippet com conteúdo NULL. Artigo ID: 12
+ID 12 ->
+"12";"Poster: Observing change in crowded data sets in 3D space - Visualizing gene expression in human tissues.";"2013";"Marcin Rogowski|Carlo Vittorio Cannistraci|Gregorio Alanis-Lobato|Philip P. Weber|Timothy Ravasi|J&uuml;rgen P. Schulze|Daniel Acevedo Feliz";"0";"2012-12-31 23:00:00";NULL
+
+<> Separador ';' com outro uso. Artigo ID: 20
+ID 20 >
+"20";"Poster: MagicLensVS - Towards a flexible framework for quick setup of visual feedback in a virtual studio.";"2013";"Bj&ouml;rn W&ouml;ldecke|Dionysios Marinos|Christian Geiger";"1";"2016-10-03 21:36:28";"Poster: MagicLensVS-Towards a flexible framework for quick setup of visual feedback in a virtual studio. B WÃ¶ldecke, D Marinos, C Geiger - 3D User Interfaces (3DUI),  , 2013 - ieeexplore.ieee.org. ABSTRACT In this paper, we present the current work in progress of the MagicLensVS,  which is a flexible framework for visual feedback in a virtual studio environment. Our  ambition is to facilitate the creation of richer content in TV productions by improving the  .."
+
+<> Campo título utilizando "" duplamente, ou seja na representação de palavras com aspas. Artigo ID: 262299. Acredito que fizeram isso para tentar escapar o "", já que nesse sentido ele é considerado um caractere especial aqui. Aproximadamente 1794 regs assim. 
+ID 262299 ->
+"262299";"Keynote address: Interactive ""smart"" computers";"2010";"Takeo Igarashi";"0";"2012-12-31 23:00:00";NULL
+
+<> Registro organizado em várias linhas. Artigo ID: 368004. 
+ID -> 368004
+"368004";"Edge Finding Filtering Algorithm for Discrete Cumulative Resources in <i>O</i>(<i>kn</i> log <i>n</i>){mathcal O}(kn {
+m log} n).";"2009";"Petr Vil&iacute;m";"0";"2012-12-31 23:00:00";NULL
+
+<> Artigo  não tem titlo. Artigo ID: 906635.  
+ID -> 906635
+"906635";;"2007";"T Ayuso, I Jerico";"1";"2016-06-16 18:42:30";". JY Zhang, BY Shi, JK Xie, HL Yuan -   jing ke xue wei yuan hui , 2011 - europepmc.org. ... The adsorption of the low molecular weight SOC and NOM with apparent molecular weight (AMW) <  500 on PAC was primarily impacted by the micropore surface area, and that of NOM with 500 <  AMW < 3 000 was affected by the mesopore surface area combined with the .."
+
+<> Registro não possui campo autor(es). Artitgo ID : 96
+ID 96 ->
+"96";"Symposium chair message.";"2014";;"0";"2016-07-28 09:36:39";"Symposium chair message. A LÃ©cuyer, F Steinicke - 3D User Interfaces (3DUI), , 2013 - ieeexplore.ieee.org. Welcome to the IEEE Symposium on 3D User Interfaces 2013 (3DUI 2013), taking place in  Orlando, Florida, on March 16th-17th, 2013. The symposium is co-located with IEEE Virtual  Reality 2013 and the ACM Symposium on Interactive 3D Graphics and Games 2013 (i3D  .."
+
+Obs-> É A PARTIR DO REGISTRO 553 QUE OS "SALTOS" DE ID COMEÇAM NO ARQUIVO!
